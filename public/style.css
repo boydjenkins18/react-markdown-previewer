@@ -1,0 +1,15 @@
+.output{
+  white-space:pre-wrap;
+  line-height:1em;
+
+}
+textarea{
+  height:65vh;
+}
+.header{
+  text-align:center;
+}
+body{
+  background:#ddd;
+  font-family: 'Baloo Bhaijaan', cursive;
+}
